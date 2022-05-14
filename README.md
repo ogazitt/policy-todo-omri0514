@@ -1,1 +1,3 @@
-# policy-todo-omri0514
+# policy-todo
+
+A policy Aserto's sample todo application.
